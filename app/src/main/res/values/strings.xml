@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CosmicQuiz</string>
+    <string name="question_sun">The Sun is a planet.</string>
+    <string name="question_andromeda">We live in the andromeda galaxy.</string>
+    <string name="question_milky_way">We live in the milky way galaxy.</string>
+    <string name="question_planets">There are nine planets in the solar system 2019.</string>
+    <string name="question_moon">We can see both sides of the Moon from the Earth.</string>
+    <string name="question_giant_planets">All of the giant planets in our solar system have rings.</string>
+    <string name="question_jupiter">Smallest Planet: Jupiter.</string>
+    <string name="question_mercury">Largest Planet: Mercury.</string>
+    <string name="question_atmosphere">All planets in the solar system have atmosphere.</string>
+    <string name="question_neptune">Neptune is the eighth planet from the sun.</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+</resources>
